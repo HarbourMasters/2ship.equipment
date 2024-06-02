@@ -115,7 +115,6 @@ function populateRomList() {
                             `<i class='fas fa-check-circle' title='Supported' style='color: green;'></i>` :
                             `<i class='fas fa-times-circle' title='Unsupported' style='color: red;'></i>`
                     }</td>
-                    <td>${entry.masterQuest ? `<i class='fas fa-dice' title='Master Quest'></i>` : ''}</td>
                     <td class='rom-list-region'><img title='${entry.region}' src='hasherRes/${entry.region}.svg'></td>
                     <td>
                         ${entry.formats.includes('cart') ? `<i class='fas fa-microchip' title='N64 Cartridge'></i>` : ''}
@@ -125,6 +124,7 @@ function populateRomList() {
                         ${entry.formats.includes('beta') ? `<i class='fas fa-file-code' title='Beta'></i>` : ''}
                         ${entry.formats.includes('builtin') ? `<i class='fas fa-gamepad' title='iQue'></i>` : ''}
                         ${entry.formats.includes('hotel') ? `<i class='fas fa-hotel' title='LodgeNet'></i>` : ''}
+                        ${entry.formats.includes('kiosk') ? `<i class='fas fa-tv' title='Kiosk'></i>` : ''}
                     </td>
                     <td><i class='fas fa-chess-board' title='${hash}'></i></td>
                 </tr>

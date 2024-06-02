@@ -70,7 +70,7 @@ class Hasher {
     }
 
     getRomDb() {
-        var dbGetPromise = romDb('soh')
+        var dbGetPromise = romDb('2ship')
         .catch(err => {
             console.error(err);
             return null;

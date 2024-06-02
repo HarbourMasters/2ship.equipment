@@ -1,0 +1,99 @@
+{
+"meta" : {
+    "name" : "2Ship",
+    "version" : "1.0.1",
+    "hashContent": "rom",
+    "comment": "2Ship supported/unsupported as of Rika Bravo"
+},
+"D6133ACE5AFAA0882CF214CF88DABA39E266C078": {
+    "shortName": "NTSC-U",
+    "fullName": "Legend of Zelda, The - Majora's Mask (USA)",
+    "supported": true,
+    "formats": ["cart"],
+    "region": "NTSC-U"
+},
+"9743AA026E9269B339EB0E3044CD5830A440C1FD": {
+    "shortName": "NTSC-U GC",
+    "fullName": "Legend of Zelda, The - Majora's Mask (USA) (GameCube)",
+    "supported": true,
+    "formats": ["optical"],
+    "region": "NTSC-U"
+},
+"5FB2301AACBF85278AF30DCA3E4194AD48599E36": {
+    "shortName": "NTSC-J 1.0",
+    "fullName": "Zelda no Densetsu - Mujura no Kamen (Japan)",
+    "supported": false,
+    "formats": ["cart"],
+    "region": "NTSC-J"
+},
+"41FDB879AB422EC158B4EAFEA69087F255EA8589": {
+    "shortName": "NTSC-J 1.1",
+    "fullName": "Zelda no Densetsu - Mujura no Kamen (Japan) (Rev 1)",
+    "supported": false,
+    "formats": ["cart"],
+    "region": "NTSC-J"
+},
+"1438FD501E3E5B25461770AF88C02AB1E41D3A7E": {
+    "shortName": "NTSC-J GC",
+    "fullName": "Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube)",
+    "supported": false,
+    "formats": ["optical"],
+    "region": "NTSC-J"
+},
+"C04599CDAFEE1C84A7AF9A71DF68F139179ADA84": {
+    "shortName": "PAL 1.0",
+    "fullName": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)",
+    "supported": false,
+    "formats": ["cart"],
+    "region": "PAL"
+},
+"BB4E4757D10727C7584C59C1F2E5F44196E9C293": {
+    "shortName": "PAL 1.1",
+    "fullName": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1)",
+    "supported": false,
+    "formats": ["cart"],
+    "region": "PAL"
+},
+"A849A65E56D57D4DD98B550524150F898DF90A9F": {
+    "shortName": "PAL GC",
+    "fullName": "Legend of Zelda, The - Majora's Mask (Europe) (GameCube)",
+    "supported": false,
+    "formats": ["optical"],
+    "region": "PAL"
+},
+"C487DB55C2C3A97CCD39DED13EF9FD9121DAE729": {
+    "shortName": "PAL Wii VC",
+    "fullName": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console)",
+    "supported": false,
+    "formats": ["digital"],
+    "region": "PAL"
+},
+"B38B71D2961DFFB523020A67F4807A4B704E347A": {
+    "shortName": "PAL 1.1 (Debug)",
+    "fullName": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)",
+    "supported": false,
+    "formats": ["debug"],
+    "region": "PAL"
+},
+"55541662A192C66E34A011D4BF6F4A0EC69899AE": {
+    "shortName": "PAL 1.1 (Debug)",
+    "fullName": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)",
+    "supported": false,
+    "formats": ["debug"],
+    "region": "PAL"
+},
+"2F0744F2422B0421697A74B305CB1EF27041AB11": {
+    "shortName": "Kiosk Demo",
+    "fullName": "Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk)",
+    "supported": false,
+    "formats": ["kiosk"],
+    "region": "NTSC-U"
+},
+"F882460A888B8DB76E8B163FD508D89E7B2E9E00": {
+    "shortName": "LodgeNet",
+    "fullName": "Legend of Zelda, The - Majora's Mask (USA) (LodgeNet)",
+    "supported": false,
+    "formats": ["hotel"],
+    "region": "NTSC-U"
+}
+}
